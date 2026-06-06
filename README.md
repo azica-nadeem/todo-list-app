@@ -1,2 +1,11 @@
-# todo-list-app
-A Python-based To-Do List application for managing daily tasks.
+# To-Do List App
+
+A simple Python To-Do List application.
+
+## Features
+- Add tasks
+- View tasks
+- Exit program
+
+## Language
+Python
